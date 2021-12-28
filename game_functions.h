@@ -13,6 +13,6 @@ typedef struct player(){
  char name[20];//name of the players  /*4*/
  int boxes;//number of boxes /*5*/
  int A[2*n+2][2*n+2];//array indicates the statue of the grid  /*6*/
-};
+}player;
 
 #endif // GAME_FUNCTIONS_H_INCLUDED
