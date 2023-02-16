@@ -7,13 +7,14 @@ Dots and Boxes is an old game for** one or two players**. Starting with an empty
 - Undo
 - Redo
 - Top 10 Players (Rank)
-## User Interface:
+## Extra data displayed:
 During the game play extra information is printed beside the grid.
-• [one field] Whose player turn is.
-• [two fields] Number of moves for each player.
-• [two fields] Scores of each players.
-• [one field] Number of remaining lines.
-• [one field] Time passed in minutes and seconds.
+* [one field] Whose player turn is.
+* [two fields] Number of moves for each player.
+* [two fields] Scores of each players.
+* [one field] Number of remaining lines.
+* [one field] Time passed in minutes and seconds.
 ## End Game:
 Dots and Boxes will end when no more lines (connection between two dots) can be places. The player with the highest score is the winner.
+## Game UI:
 [![Dots And Boxes](https://www.linkpicture.com/q/Screenshot-2023-02-16-223501.png)](https://www.linkpicture.com/view.php?img=LPic63ee9398158541382352842)
