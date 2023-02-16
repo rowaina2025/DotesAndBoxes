@@ -18,3 +18,5 @@ During the game play extra information is printed beside the grid.
 Dots and Boxes will end when no more lines (connection between two dots) can be places. The player with the highest score is the winner.
 ## Game UI:
 [![Dots And Boxes](https://www.linkpicture.com/q/Screenshot-2023-02-16-223501.png)](https://www.linkpicture.com/view.php?img=LPic63ee9398158541382352842)
+## Project Report:
+https://drive.google.com/file/d/11SCFuqFDRW4xH55S-0HSbEDMEVETe_Z4/view?usp=sharing
